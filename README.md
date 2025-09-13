@@ -1,6 +1,6 @@
-# BANESERVICE-APP
+ BANESERVICE-APP
 ## 📌 Description
-*BaneService App est une application web développée en PHP en suivant une architecture MVC simplifiée.  
+BaneService App est une application web développée en PHP en suivant une architecture MVC simplifiée.  
 
 Elle a pour objectif de :
 - Gérer les services proposés par l’entreprise  
